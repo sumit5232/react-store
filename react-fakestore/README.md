@@ -49,5 +49,5 @@ To build a scalable, responsive, and efficient inventory dashboard that handles 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/react-fakestore.git](https://github.com/your-username/react-fakestore.git)
+   git clone [https://github.com/sumit5232/react-store.git](https://github.com/sumit5232/react-store.git)
    cd react-fakestore
