@@ -69,7 +69,7 @@ export default function Dashboard() {
               <div className="rounded-lg bg-white/20 p-2 backdrop-blur-sm">
                 <ShoppingBag className="h-8 w-8 text-white" />
               </div>
-              <h1 className="text-3xl font-extrabold tracking-tight">FakeStore Inventory</h1>
+              <h1 className="text-3xl font-extrabold tracking-tight">Store Inventory</h1>
             </div>
             
             {/* Search & Logout */}
